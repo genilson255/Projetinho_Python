@@ -5,6 +5,6 @@
 
 nu = int(input('Insira um numero para fazer a multiplicação: '))
 for i in range(1, 11):
-    print(nu, 'x', i, '=', nu * i, "\n")
+    print(nu, 'x', i, '=', nu * i, "  ")
 
 
